@@ -1,0 +1,20 @@
+{
+  "name": "vsc2026-themes",
+  "displayName": "VS Code 2026 Themes",
+  "version": "1.0.0",
+  "description": "VS Code 2026 Dark and Light color theme for Mayoi",
+  "author": "Nanling",
+  "license": "MIT",
+  "mayoi": ">=0.20.0",
+  "contributes": {
+    "themes": [
+      {
+        "id": "vsc2026-themes.auto",
+        "label": "VS Code 2026",
+        "light": "themes/2026-light.json",
+        "dark": "themes/2026-dark.json",
+        "icon": "assets/vscode.png"
+      }
+    ]
+  }
+}
