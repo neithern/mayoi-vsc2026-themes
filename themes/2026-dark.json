@@ -25,8 +25,6 @@
     "surfacePressed": "#313233",
     "popup": "#202122",
     "inputBorder": "#333536",
-    "pickActive": "#297AA0",
-    "pickActiveText": "#FFFFFF",
     "tabLine": "#3994BC",
     "panelLine": "#3994BC",
     "scrollbar": "#A8A9AA66",
